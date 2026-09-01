@@ -32,8 +32,7 @@ The models are evaluated on the **WELFake** and **ISOT** fake-news datasets usin
 | -------------------- | ------------------------------------------------------------------------------------------------------------ |
 | `dissertation.ipynb` | Main notebook containing preprocessing, model training, OCR-noise experiments, evaluation, and SHAP analysis |
 | `app.py`             | Streamlit application for screenshot-based fake-news classification                                          |
-| `requirements.txt`   | Python dependencies                                                                                          |
-| `figures/`           | Figures and charts generated during experimentation                                                          |
+| `requirements.txt`   | Python dependencies                                                                                          |                                                      
 
 Trained transformer models are not included because of their large file sizes. The notebook saves trained models to Google Drive.
 
