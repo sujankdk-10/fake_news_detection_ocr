@@ -34,9 +34,7 @@ The models are evaluated on the **WELFake** and **ISOT** fake-news datasets usin
 | `app.py`             | Streamlit application for screenshot-based fake-news classification                                          |
 | `requirements.txt`   | Python dependencies                                                                                          |                                                      
 
-Trained transformer models are not included because of their large file sizes. The notebook saves trained models to Google Drive.
-
-The datasets are also not redistributed in this repository and should be obtained from their original public sources.
+Trained transformer models are not included because of their large file sizes. The notebook saves trained models to Google Drive for reuse in later experimental stages.
 
 ---
 
